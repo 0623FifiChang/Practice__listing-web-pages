@@ -1,0 +1,29 @@
+html{
+    font-family: "Sofia", sans-serif;
+
+}
+
+table{
+    border-collapse: collapse;
+    border: 2px solid rgb(255, 146, 37);
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+    margin: auto;
+}
+
+caption{
+    padding: 10px;
+}
+
+td,th{
+    border: 2px solid rgb(183, 92, 0);
+    padding: 10px 20px;
+}
+
+th,tr:nth-child(1){
+    background-color: antiquewhite;
+}
+
+td{
+    text-align: center;
+}
